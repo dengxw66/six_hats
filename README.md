@@ -1,11 +1,11 @@
 # six_hats
 
-Working in progress ...
+Work in Progress ...
 
-- 主要过程： [`agents.ipynb`](https://github.com/dengxw66/six_hats/tree/master/agents.ipynb)
-- 度量指标：[`metric_analysis`](https://github.com/dengxw66/six_hats/tree/master/metric_analysis)
-- 任务：
-    1. task1: 病人安慰情感能力[`task1`](https://github.com/dengxw66/six_hats/tree/master/task1)
-    2. task2: 营销战略规划能力[`task2`](https://github.com/dengxw66/six_hats/tree/master/task2)
-    3. task3: 数学逻辑思考能力[`task3`](https://github.com/dengxw66/six_hats/tree/master/task3)
-    4. task4: 科幻故事想象能力[`task4`](https://github.com/dengxw66/six_hats/tree/master/task4)
+- Main Process: [`agents.ipynb`](https://github.com/dengxw66/six_hats/tree/master/agents.ipynb)
+- Metrics: [`metric_analysis`](https://github.com/dengxw66/six_hats/tree/master/metric_analysis)
+- Experimental Results:
+    1. Emotional comfort ability for patients: [`task1`](https://github.com/dengxw66/six_hats/tree/master/task1)
+    2. Strategic marketing planning ability: [`task2`](https://github.com/dengxw66/six_hats/tree/master/task2)
+    3. Mathematical logical thinking ability: [`task3`](https://github.com/dengxw66/six_hats/tree/master/task3)
+    4. Sci-fi storytelling imagination ability: [`task4`](https://github.com/dengxw66/six_hats/tree/master/task4)
